@@ -290,6 +290,8 @@ Demandas cruzadas por la interrupción en la ejecución del proyecto en 2007 por
 
 - **ERP desconocido y empresas reales pero anónimas** : [Un caso de estudio de como tres empresas de Taiwan acabaron fallando en la implementación de ERP](https://www.researchgate.net/publication/317872237_ERP_Implementation_Failures_in_Taiwan) (Fuente: Pablo Jordán)
 
+- **ERP desconocido y Company X (desconocida)** : [ERP non-implementation: a case study of a UK furniture manufacturer](https://usir.salford.ac.uk/id/eprint/37933/8/ERP%20Non%20Implementation%20-%20FDraft-07.pdf) (Fuente: Gonzalo Garcia Labuena) 
+
 ### 2006
 
 - **Bearing Point y Department of Homeland Security (EE.UU.)**: [Department of Homeland Security – Emerge2 Project – USA](http://calleam.com/WTPF/?p=1865) y [EMERGE2's failure sends DHS back to drawing board](https://fcw.com/articles/2006/03/30/emerge2s-failure-sends-dhs-back-to-drawing-board.aspx?admgarea=TC_Management) (Fuente: Daniel Cabrera)
@@ -524,6 +526,9 @@ Mala calidad de datos, problemas de suministros derivados y TPV con problemas ll
 [Case study target canada failure](https://www.henricodolfing.com/2019/09/case-study-target-canada-failure.html) (Fuente: Jorge Rambla Gonzalez)
 [Target Canada: Mistakes Made from a Software Perspective](https://www.bluelinkerp.com/blog/2016/02/12/target-canada-mistakes-made-from-a-software-perspective/)(Fuente: Víctor Hernández Fernández)
 [Why ERP Projects Fail in Canada - and How to Avoid the Same Fate](https://www.essoft.com/blogs/post/why-erp-projects-fail-canada) (Fuente: Lorena Mehavilla)
+
+- **Fallo ERP y Long Beach (California, UUEE)**: Inpago de multas de estacionamiento por funcionalidad escasa del sistema y arrastre de fallos desde el año 2000.
+[Software blamed for $17.6 million in unpaid Long Beach parking fines](https://latimesblogs.latimes.com/lanow/2012/03/long-beach-parking-tickets-audit.html)(Fuente: Gonzalo Garcia Labuena)
 
 ### 2013
 
